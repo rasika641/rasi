@@ -1,0 +1,6 @@
+{
+  "name": "MindBloom AI Tutor",
+  "description": "An intelligent personal tutor powered by Google Gemini that helps students master any subject through interactive explanations, study plans, quizzes, flashcards, and homework guidance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
